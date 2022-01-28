@@ -1,0 +1,25 @@
+body
+{
+background-color: black;
+color: deeppink;
+}
+
+
+p{
+    width: 500;
+    text-align: center;
+    font-weight: bold;
+}
+
+.heading
+{
+    font-size: 50px;
+    color:indigo;
+}
+
+#camera
+{
+    width: 350px;
+    height: 300px;
+    border: 10px ridge indigo;
+}
